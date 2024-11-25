@@ -1,0 +1,16 @@
+C:\Users\ACER\source\repos\Agenda_De_Contatos\Agenda_De_Contatos\bin\Debug\net8.0-windows\Agenda_De_Contatos.exe
+C:\Users\ACER\source\repos\Agenda_De_Contatos\Agenda_De_Contatos\bin\Debug\net8.0-windows\Agenda_De_Contatos.deps.json
+C:\Users\ACER\source\repos\Agenda_De_Contatos\Agenda_De_Contatos\bin\Debug\net8.0-windows\Agenda_De_Contatos.runtimeconfig.json
+C:\Users\ACER\source\repos\Agenda_De_Contatos\Agenda_De_Contatos\bin\Debug\net8.0-windows\Agenda_De_Contatos.dll
+C:\Users\ACER\source\repos\Agenda_De_Contatos\Agenda_De_Contatos\bin\Debug\net8.0-windows\Agenda_De_Contatos.pdb
+C:\Users\ACER\source\repos\Agenda_De_Contatos\Agenda_De_Contatos\obj\Debug\net8.0-windows\Agenda_De_Contatos.Agenda.resources
+C:\Users\ACER\source\repos\Agenda_De_Contatos\Agenda_De_Contatos\obj\Debug\net8.0-windows\Agenda_De_Contatos.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\Agenda_De_Contatos\Agenda_De_Contatos\obj\Debug\net8.0-windows\Agenda_De_Contatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\Agenda_De_Contatos\Agenda_De_Contatos\obj\Debug\net8.0-windows\Agenda_De_Contatos.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\Agenda_De_Contatos\Agenda_De_Contatos\obj\Debug\net8.0-windows\Agenda_De_Contatos.AssemblyInfo.cs
+C:\Users\ACER\source\repos\Agenda_De_Contatos\Agenda_De_Contatos\obj\Debug\net8.0-windows\Agenda_De_Contatos.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Agenda_De_Contatos\Agenda_De_Contatos\obj\Debug\net8.0-windows\Agenda_De_Contatos.dll
+C:\Users\ACER\source\repos\Agenda_De_Contatos\Agenda_De_Contatos\obj\Debug\net8.0-windows\refint\Agenda_De_Contatos.dll
+C:\Users\ACER\source\repos\Agenda_De_Contatos\Agenda_De_Contatos\obj\Debug\net8.0-windows\Agenda_De_Contatos.pdb
+C:\Users\ACER\source\repos\Agenda_De_Contatos\Agenda_De_Contatos\obj\Debug\net8.0-windows\Agenda_De_Contatos.genruntimeconfig.cache
+C:\Users\ACER\source\repos\Agenda_De_Contatos\Agenda_De_Contatos\obj\Debug\net8.0-windows\ref\Agenda_De_Contatos.dll
